@@ -1,7 +1,10 @@
 # Gradle files
 .gradle/
 build/
-
+.google/
+macrobenchmark/
+screenshots/
+docs/
 # Local configuration file (sdk path, etc)
 local.properties
 
